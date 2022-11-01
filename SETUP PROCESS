@@ -1,0 +1,9 @@
+1. Add GRAPHICS.H and WINBGIM.H file in minG-w's Include file.
+2. Add LIBBGI.A file in lib folder of compiler (  minG-w's ) .
+3. In VS Code : Download c/c++ extension from microsoft official with blue tick 
+4. Add compiler arguments in VS Code's Extension's of c/c++ Configuration (UI) by opening command pallet in VS code.
+5. Choose g++ compiler while runnig code for first time in each folder.
+**6. Mendotary: Must use CPP as a file extension instead of C.
+(Optioal) 7. Download Code Runner Extension to run code on one click.
+(Optioal) 8. Download EXE Runner Extension to run builed EXE file.
+9. Wolla !!! Now You Can Run your all Graphics Program In VS Code.
