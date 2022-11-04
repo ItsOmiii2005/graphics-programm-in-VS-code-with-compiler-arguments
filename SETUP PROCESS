@@ -1,5 +1,5 @@
-1. Add GRAPHICS.H and WINBGIM.H file in minG-w's Include file.
-2. Add LIBBGI.A file in lib folder of compiler (  minG-w's ) .
+1. Add GRAPHICS.H and WINBGIM.H file in compiler's (minG-w's) Include folder.
+2. Add LIBBGI.A file in lib folder of compiler (minG-w's ) .
 3. In VS Code : Download c/c++ extension from microsoft official with blue tick 
 4. Add compiler arguments in VS Code's Extension's of c/c++ Configuration (UI) by opening command pallet in VS code.
 5. Choose g++ compiler while runnig code for first time in each folder.
